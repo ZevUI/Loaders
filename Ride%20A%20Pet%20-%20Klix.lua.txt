@@ -7929,7 +7929,7 @@ function xDTaraZ.Boot()
 
     Library:CreateWindow({
         Title = "Mario Hub",
-        SubTitle = "Ride A Pet by xDTaraZ",
+        SubTitle = "Ride A Pet by Klix",
         MenuKey = Enum.KeyCode.LeftControl,
         ConfigFolder = "Ride A Pet",
         Language = "Auto",
